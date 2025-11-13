@@ -1,7 +1,7 @@
 Climate Data Analysis (2000–2030) using Machine Learning
 📘 Overview
 
-This project explores global climate change indicators from 2000 to 2030 using data science and machine learning techniques.
+This project explores global climate change indicators from 1963 to 2030 using data science and machine learning techniques.
 It focuses on analyzing how temperature, CO₂ emissions, and precipitation patterns have evolved over time — and predicting future climate trends up to 2030.
 
 By combining data visualization and predictive modeling, this project aims to provide actionable insights about the ongoing impact of climate change.
